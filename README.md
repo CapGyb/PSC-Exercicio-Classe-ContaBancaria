@@ -8,11 +8,6 @@ Este projeto foi desenvolvido como parte de uma atividade prática de Programaç
 - IDE de sua preferência (VSCode, IntelliJ, Eclipse, etc.)
 - Git e GitHub para versionamento
 
-## 📁 Estrutura de Arquivos
-
-src/
-├─ ContaBancaria.java
-└─ Main.java
 
 ## 🧠 Funcionalidades
 
