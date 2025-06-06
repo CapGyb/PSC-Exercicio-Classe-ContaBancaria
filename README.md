@@ -23,22 +23,21 @@ src/
 
 ## 📌 Exemplo de Saída
 
-Saldo inicial (c1): R$ 500.00
+Saldo inicial (c1): R$ 500.00 
 
-Após depósito de R$150 (c1): R$ 650.00
+Após depósito de R$150 (c1): R$ 650.00 
 
-Tentativa de saque de R$700 (c1): falha
+Tentativa de saque de R$700 (c1): falha 
 
-Saldo final (c1): R$ 650.00
+Saldo final (c1): R$ 650.00 
 
+Saldo inicial (c2): R$ 300.00 
 
-Saldo inicial (c2): R$ 300.00
+Após depósito de R$200 (c2): R$ 500.00 
 
-Após depósito de R$200 (c2): R$ 500.00
+Tentativa de saque de R$100 (c2): sucesso 
 
-Tentativa de saque de R$100 (c2): sucesso
-
-Saldo final (c2): R$ 400.00
+Saldo final (c2): R$ 400.00 
 
 
 ## 🧑‍💻 Autor
