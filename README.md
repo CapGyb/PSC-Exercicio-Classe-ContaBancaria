@@ -37,4 +37,4 @@ Saldo final (c2): R$ 400.00 <br>
 ## 🧑‍💻 Autor
 
 Raphael Silva Brito
-📍 Programador em formação, apaixonado por soluções inteligentes e boas práticas de desenvolvimento.
+📍 Programador em formação.
