@@ -28,3 +28,30 @@ src/
    
    git clone https://github.com/CapGyb/PSC-Exercicio-Classe-ContaBancaria.git
    cd PSC-Exercicio-Classe-ContaBancaria
+
+2. Compile os arquivos:
+
+bash
+Copiar
+Editar
+javac src/*.java
+
+3.Execute a aplicação:
+
+java -cp src Main
+
+📌 Exemplo de Saída
+
+Saldo inicial (c1): R$ 500.00
+Após depósito de R$150 (c1): R$ 650.00
+Tentativa de saque de R$700 (c1): falha
+Saldo final (c1): R$ 650.00
+
+Saldo inicial (c2): R$ 300.00
+Após depósito de R$200 (c2): R$ 500.00
+Tentativa de saque de R$100 (c2): sucesso
+Saldo final (c2): R$ 400.00
+
+🧑‍💻 Autor
+Raphael Silva Brito
+📍 Programador em formação, apaixonado por soluções inteligentes e boas práticas de desenvolvimento.
